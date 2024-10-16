@@ -25,11 +25,12 @@ Ensure you have node.js installed. Then, install the necessary packages:
 npm install discord.js dotenv
 ```
 
-- **Copy the bot token and store it in a .env file in your project directory as follows:**
+- **Copy your bot token and store it in a .env file in your project directory as follows:**
 
 ```
 discordToken=YOUR_TOKEN_HERE
 ```
+You can find your bot token at [Discord Developer Portal](https://discord.com/developers/applications)
 
 - **Set Up Llama 3 AI for !talk command:**
 
